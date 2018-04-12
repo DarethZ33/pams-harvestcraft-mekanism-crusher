@@ -33,7 +33,6 @@ mods.mekanism.crusher.addRecipe(<harvestcraft:beanitem>, <mekanism:biofuel> *3);
 mods.mekanism.crusher.addRecipe(<harvestcraft:beanseeditem>, <mekanism:biofuel> *2);
 mods.mekanism.crusher.addRecipe(<harvestcraft:beetitem>, <mekanism:biofuel> *3);
 mods.mekanism.crusher.addRecipe(<harvestcraft:beetseeditem>, <mekanism:biofuel> *2);
-mods.mekanism.crusher.addRecipe(<harvestcraft:bellpepperitem>, <mekanism:biofuel>);
 mods.mekanism.crusher.addRecipe(<harvestcraft:bellpepperitem>, <mekanism:biofuel> *3);
 mods.mekanism.crusher.addRecipe(<harvestcraft:bellpepperseeditem>, <mekanism:biofuel> *2);
 mods.mekanism.crusher.addRecipe(<harvestcraft:broccoliitem>, <mekanism:biofuel> *3);
@@ -42,8 +41,6 @@ mods.mekanism.crusher.addRecipe(<harvestcraft:brusselsproutitem>, <mekanism:biof
 mods.mekanism.crusher.addRecipe(<harvestcraft:brusselsproutseeditem>, <mekanism:biofuel> *2);
 mods.mekanism.crusher.addRecipe(<harvestcraft:cabbageitem>, <mekanism:biofuel> *3);
 mods.mekanism.crusher.addRecipe(<harvestcraft:cabbageseeditem>, <mekanism:biofuel> *2);
-mods.mekanism.crusher.addRecipe(<harvestcraft:cactusfruititem>, <mekanism:biofuel> *3);
-mods.mekanism.crusher.addRecipe(<harvestcraft:cactusfruitseeditem>, <mekanism:biofuel> *2);
 mods.mekanism.crusher.addRecipe(<harvestcraft:cantaloupeitem>, <mekanism:biofuel> *3);
 mods.mekanism.crusher.addRecipe(<harvestcraft:cantaloupeseeditem>, <mekanism:biofuel> *2);
 mods.mekanism.crusher.addRecipe(<harvestcraft:cashew_sapling>, <mekanism:biofuel> *3);
